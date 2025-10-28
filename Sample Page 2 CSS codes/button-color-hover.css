@@ -1,0 +1,8 @@
+    .button-color:hover {
+      background: linear-gradient(135deg, #DB2777 0%, #7C3AED 100%); /* Darker pink to darker purple */
+      transform: translateY(-2px);
+      box-shadow: 0 6px 12px rgba(236, 72, 153, 0.3);
+    }
+    .button-color:hover {
+      background-color: #e66ebb;
+    } 
