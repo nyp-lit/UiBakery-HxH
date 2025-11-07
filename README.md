@@ -1,19 +1,19 @@
 # Ui Bakery Workshop - Humanity X Hack Hackathon 
-Slides link: 
+Slides Link: 
 https://docs.google.com/presentation/d/1u0tNUeT7uGPL5jt08YrUugOpct4YPTyaKeS8fWY16Gs/edit?usp=sharing
 
 All the resources are as above 
 
-To see the guide on how to build the sample pages, click on the sample page 1.pdf & sample page 2.pdf
+To Follow our live demostration , see the Main Page Guide Link/ Main Page.pdf 
 
-# UI Bakery Website link: 
+# UI Bakery Website Link: 
 https://uibakery.io/
 
-# UI Bakery Documentation link: 
+# UI Bakery Documentation Link: 
 https://docs.uibakery.io/
 
-# Main page guide link 
+# Main Page Guide Link 
 https://docs.google.com/document/d/1uaL0fyTfsP81ygklZMDWqlE09AKV9Wf-59b4gLir9ls/edit?usp=sharing
 
-# [Optional] page 2 guide link 
+# [Optional] Page 2 Guide Link 
 https://docs.google.com/document/d/1uaL0fyTfsP81ygklZMDWqlE09AKV9Wf-59b4gLir9ls/edit?usp=sharing
