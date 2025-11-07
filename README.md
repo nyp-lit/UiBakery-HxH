@@ -12,8 +12,8 @@ https://uibakery.io/
 # UI Bakery Documentation link: 
 https://docs.uibakery.io/
 
-# Sample page 1 Google guide link 
+# Main page guide link 
 https://docs.google.com/document/d/1uaL0fyTfsP81ygklZMDWqlE09AKV9Wf-59b4gLir9ls/edit?usp=sharing
 
-# Sample page 2 Google guide link 
+# [Optional] page 2 guide link 
 https://docs.google.com/document/d/1uaL0fyTfsP81ygklZMDWqlE09AKV9Wf-59b4gLir9ls/edit?usp=sharing
